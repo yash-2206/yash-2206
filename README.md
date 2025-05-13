@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Yash Bhende!
 
 Welcome to my GitHub! I'm a passionate developer with a strong foundation in backend and frontend technologies, along with a growing interest in data science and cloud-based development. I enjoy building scalable, efficient, and user-friendly applications and always strive to learn and improve every day.
 

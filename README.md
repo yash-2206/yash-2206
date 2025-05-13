@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in bac
 
 ## 📫 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-bhende-63770b239))
+- [LinkedIn](https://www.linkedin.com/in/yash-bhende-63770b239)
 - Email: yashbhende081@gmail.com
 
 ---

@@ -1,19 +1,49 @@
-# Yash Bhende's Profile
+# 👋 Hi there, I'm [Your Name]!
 
-Hello! I'm Yash Bhende, currently pursuing a Bachelor's degree in Electronics and Telecommunication at VIIT college. I'm passionate about problem-solving, particularly in the fields of Java programming and Machine Learning. I have a solid understanding of various technical subjects including operating systems, digital systems, and embedded systems.
+Welcome to my GitHub! I'm a passionate developer with a strong foundation in backend and frontend technologies, along with a growing interest in data science and cloud-based development. I enjoy building scalable, efficient, and user-friendly applications and always strive to learn and improve every day.
 
-## Expertise
+---
 
-- **Programming Languages:** Java
-- **Technical Knowledge:** Operating Systems, Digital Systems, Embedded Systems
-- **Interests:** Machine Learning, Problem Solving
+## 🚀 Tech Stack
 
-## About Me
+### 👨‍💻 Languages
+- Java
+- Python
+- HTML
+- SQL
+- JavaScript
+- TypeScript
 
-I am enthusiastic about leveraging technology to solve real-world problems. Working in a team environment excites me, and I am always eager to take on new challenges and learn from them.
+### 🧰 Frameworks & Libraries
+- Spring Boot
+- Hibernate
+- Angular
 
-## Contact Information
+### 🛠️ Tools & Technologies
+- MySQL
+- Docker
+- Thymeleaf
+- Git
+- AWS
+- Postman
 
-- **Email:** yashbhende081@gmail.com
+---
 
-Feel free to reach out if you have any questions or opportunities to collaborate!
+## 📚 Technical Knowledge
+
+- Data Structures & Algorithms  
+- Object Oriented Programming (OOP)  
+- Database Management System (DBMS)  
+- Machine Learning & Deep Learning  
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-bhende-63770b239))
+- Email: yashbhende081@gmail.com
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect if you'd like to collaborate. Happy coding! 🚀
+
